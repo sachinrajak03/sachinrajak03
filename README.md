@@ -1,6 +1,6 @@
 # 👋Hello,I am Sachin Rajak  
 ## 💫 About Me:
-I am a 20 y.o. Software Engineer  from India.<br>I am currently pursuing my B.Tech from BGIEM college Jabalpur.<br>I am currently learning as well as working on mern stack.<br> 
+I am a 21 y.o. Software Engineer  from India.<br>I am currently pursuing my B.Tech from BGIEM college Jabalpur.<br>I am currently learning as well as working on mern stack.<br> 
 
 
 ## 🌐 Socials:
